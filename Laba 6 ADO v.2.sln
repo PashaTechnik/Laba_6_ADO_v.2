@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba 6 ADO v.2", "Laba 6 ADO v.2\Laba 6 ADO v.2.csproj", "{93419CFC-287F-41C1-A492-80E5678ADE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93419CFC-287F-41C1-A492-80E5678ADE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93419CFC-287F-41C1-A492-80E5678ADE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93419CFC-287F-41C1-A492-80E5678ADE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93419CFC-287F-41C1-A492-80E5678ADE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
